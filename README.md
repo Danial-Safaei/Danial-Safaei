@@ -22,11 +22,11 @@
   
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danial-safaei-a7a2b917a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danial-safaei-6b8525138/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=your_scholar_id)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@warwick.ac.uk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danial.safaei@warwick.ac.uk)
 
 </div>
 
@@ -252,8 +252,8 @@ I'm always interested in collaborating on:
 
 | Platform | Link |
 |:---:|:---:|
-| 💼 LinkedIn | [Connect with me](https://www.linkedin.com/in/danial-safaei-a7a2b917a/) |
-| 📧 Email | your.email@warwick.ac.uk |
+| 💼 LinkedIn | [Connect with me](https://www.linkedin.com/in/danial-safaei-6b8525138/) |
+| 📧 Email | danial.safaei@warwick.ac.uk |
 | 🎓 Google Scholar | [My Publications](https://scholar.google.com/citations?user=your_scholar_id) |
 | 🔬 ResearchGate | [Research Profile](https://www.researchgate.net/) |
 | 🆔 ORCID | [ORCID Profile](https://orcid.org/) |
