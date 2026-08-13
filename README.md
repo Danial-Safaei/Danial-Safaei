@@ -10,14 +10,14 @@ I work on safety assurance and trustworthy evaluation for AI-enabled autonomous 
 
 ## Selected publications
 
-**Quantifying Fidelity: A Decisive Feature Approach to Comparing Synthetic and Real Imagery**
-D. Safaei, S. Khastgir, M. Alirezaei, J. Ploeg, C.-H. Cheng, S. Tong, X. Zhao
-*2026 IEEE Intelligent Vehicles Symposium (IV)*, pp. 847–854, Detroit, MI, USA.
+**Quantifying Fidelity: A Decisive Feature Approach to Comparing Synthetic and Real Imagery**<br>
+D. Safaei, S. Khastgir, M. Alirezaei, J. Ploeg, C.-H. Cheng, S. Tong, X. Zhao<br>
+*2026 IEEE Intelligent Vehicles Symposium (IV)*, pp. 847-854, Detroit, MI, USA.<br>
 [DOI](https://doi.org/10.1109/IV66570.2026.11624013) · [arXiv](https://arxiv.org/abs/2512.16468) · [Code](https://github.com/Danial-Safaei/DFF)
 
-**DeePLT: Personalized Lighting Facilitates by Trajectory Prediction of Recognized Residents in the Smart Home**
-D. Safaei, A. Sobhani, A. A. Kiaei
-*International Journal of Information Technology*, vol. 16, no. 5, pp. 2987–2999.
+**DeePLT: Personalized Lighting Facilitates by Trajectory Prediction of Recognized Residents in the Smart Home**<br>
+D. Safaei, A. Sobhani, A. A. Kiaei<br>
+*International Journal of Information Technology*, vol. 16, no. 5, pp. 2987-2999.<br>
 [DOI](https://doi.org/10.1007/s41870-023-01665-1) · [arXiv](https://arxiv.org/abs/2304.08027)
 
 Full list, including preprints: [Google Scholar](https://scholar.google.co.uk/citations?user=qNJPWrMAAAAJ&hl=en)
