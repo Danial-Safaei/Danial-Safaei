@@ -59,3 +59,12 @@ Doctoral research supervised by Dr Siddartha Khastgir and Dr Xingyu Zhao, in ind
   <img height="150" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Danial-Safaei&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=graywhite" />
   <img height="150" alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Safaei&layout=compact&langs_count=6&hide_border=true&theme=graywhite" />
 </div>
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danial-Safaei/Danial-Safaei/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danial-Safaei/Danial-Safaei/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution graph" src="https://raw.githubusercontent.com/Danial-Safaei/Danial-Safaei/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
