@@ -33,7 +33,7 @@ Full list, including preprints: [Google Scholar](https://scholar.google.co.uk/ci
 | **Synthetic-data fidelity** | Whether synthetic imagery is faithful to the decision-relevant structure of real data, so simulation results transfer |
 | **Scenario-based testing** | Testing autonomous systems against the conditions that matter most for safety |
 
-Doctoral research supervised by Dr Siddartha Khastgir and Dr Xingyu Zhao, in industrial partnership with Siemens Digital Industries Software.
+Doctoral research supervised by Prof. Siddartha Khastgir and Prof. Matthew Higgins (previously co-supervised by Dr Xingyu Zhao), in industrial partnership with Siemens Digital Industries Software.
 
 ---
 
