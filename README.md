@@ -4,7 +4,7 @@
 
 I work on safety assurance and trustworthy evaluation for AI-enabled autonomous systems: how to tell whether a system's behaviour in simulation is evidence about its behaviour in the world, and how to make that claim defensible.
 
-[Website](https://danial-safaei.github.io) · [CV](https://danial-safaei.github.io/cv.html) · [Google Scholar](https://scholar.google.co.uk/citations?user=qNJPWrMAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4443-8763) · [LinkedIn](https://www.linkedin.com/in/danial-safaei-6b8525138/) · [ResearchGate](https://www.researchgate.net/profile/Danial-Safaei) · <danial.safaei@warwick.ac.uk>
+[Website](https://danial-safaei.github.io) · [CV](https://danial-safaei.github.io/cv.html) · [Google Scholar](https://scholar.google.co.uk/citations?user=qNJPWrMAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4443-8763) · [LinkedIn](https://www.linkedin.com/in/danial-safaei/) · [ResearchGate](https://www.researchgate.net/profile/Danial-Safaei) · <danial.safaei@warwick.ac.uk>
 
 ---
 
