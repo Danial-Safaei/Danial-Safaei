@@ -92,8 +92,11 @@ Reference implementation of Decisive Feature Fidelity: counterfactual-XAI decisi
 <br>
 
 <div align="center">
-  <img height="150" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Danial-Safaei&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=graywhite&bg_color=00000000&icon_color=2563eb&text_color=6c6e73" />
-  <img height="150" alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danial-Safaei&layout=compact&langs_count=6&hide_border=true&theme=graywhite&bg_color=00000000&text_color=6c6e73" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
+    <img alt="89 citations, h-index 6, i10-index 5, 11 works. Citations per year: 13 (2023), 42 (2024), 30 (2025), 4 (2026 to date). Source: Google Scholar." src="assets/metrics-light.svg" width="100%">
+  </picture>
 </div>
 
 <div align="center">

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="132" viewBox="0 0 1000 132" role="img" aria-label="Research metrics: 89 citations, h-index 6, i10-index 5, 11 works. Citations per year: 13 in 2023, 42 in 2024, 30 in 2025, 4 so far in 2026. Source: Google Scholar, August 2026.">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="131" rx="10" fill="#ffffff" stroke="#d8dee6"/>
+
+  <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="46"  y="56" font-size="30" font-weight="700" fill="#2563eb">89</text>
+    <text x="46"  y="76" font-size="9.5" letter-spacing="1.7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#6c6e73">CITATIONS</text>
+
+    <text x="178" y="56" font-size="30" font-weight="700" fill="#7c3aed">6</text>
+    <text x="178" y="76" font-size="9.5" letter-spacing="1.7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#6c6e73">H-INDEX</text>
+
+    <text x="286" y="56" font-size="30" font-weight="700" fill="#0f766e">5</text>
+    <text x="286" y="76" font-size="9.5" letter-spacing="1.7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#6c6e73">i10-INDEX</text>
+
+    <text x="404" y="56" font-size="30" font-weight="700" fill="#be123c">11</text>
+    <text x="404" y="76" font-size="9.5" letter-spacing="1.7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" fill="#6c6e73">WORKS</text>
+  </g>
+
+  <line x1="516" y1="26" x2="516" y2="106" stroke="#e2e5ea"/>
+
+  <text x="558" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9.5" letter-spacing="1.7" fill="#6c6e73">CITATIONS PER YEAR</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9" fill="#6c6e73">
+    <text x="576" y="72" text-anchor="middle" fill="#45464a">13</text>
+    <rect x="562" y="78" width="28" height="17" rx="3" fill="url(#bar)"/>
+    <text x="576" y="110" text-anchor="middle">2023</text>
+
+    <text x="638" y="42" text-anchor="middle" fill="#45464a">42</text>
+    <rect x="624" y="48" width="28" height="47" rx="3" fill="url(#bar)"/>
+    <text x="638" y="110" text-anchor="middle">2024</text>
+
+    <text x="700" y="55" text-anchor="middle" fill="#45464a">30</text>
+    <rect x="686" y="61" width="28" height="34" rx="3" fill="url(#bar)"/>
+    <text x="700" y="110" text-anchor="middle">2025</text>
+
+    <text x="762" y="82" text-anchor="middle" fill="#45464a">4</text>
+    <rect x="748" y="88" width="28" height="7" rx="2.5" fill="#2563eb" opacity="0.35" stroke="#2563eb" stroke-opacity="0.65"/>
+    <text x="762" y="110" text-anchor="middle">2026</text>
+  </g>
+
+  <line x1="556" y1="95.5" x2="790" y2="95.5" stroke="#e2e5ea"/>
+
+  <text x="812" y="60" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#6c6e73">2026 is year to date.</text>
+  <text x="812" y="77" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" fill="#83868d">Source: Google Scholar</text>
+</svg>
