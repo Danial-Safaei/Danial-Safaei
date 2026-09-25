@@ -95,7 +95,7 @@ Reference implementation of Decisive Feature Fidelity: counterfactual-XAI decisi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
-    <img alt="92 citations, h-index 6, i10-index 5, 11 works. Citations per year: 13 (2023), 42 (2024), 30 (2025), 7 (2026 to date). Source: Google Scholar." src="assets/metrics-light.svg" width="100%">
+    <img alt="92 citations, h-index 6, i10-index 6, 11 works. Citations per year: 13 (2023), 42 (2024), 30 (2025), 7 (2026 to date). Source: Google Scholar." src="assets/metrics-light.svg" width="100%">
   </picture>
 </div>
 
