@@ -1,0 +1,39 @@
+name: Refresh research metrics
+
+# Re-draws assets/metrics-*.svg and the README alt text from the website's
+# data (https://danial-safaei.github.io/data/*.json), which the website's own
+# Action keeps in step with Google Scholar. Commits only when numbers change.
+
+on:
+  schedule:
+    - cron: "43 6 * * *" # daily, after the website's 05:17 UTC refresh
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-metrics
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render metrics strip (standard library only)
+        run: python3 scripts/render_metrics.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/metrics-light.svg assets/metrics-dark.svg README.md
+          git commit -m "chore: refresh research metrics ($(date -u +%F))"
+          git push

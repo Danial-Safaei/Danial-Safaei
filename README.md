@@ -23,11 +23,11 @@ A driving model sees a real frame and outputs a 20° left turn. It sees the simu
 
 Perfect agreement. Ship it?
 
-Look closer. In the real frame the decision was driven by **a pedestrian**. In the synthetic one, by **a road sign** — while the pedestrian went undetected. Same output, different reason. The test passed for the wrong reason, and no pixel-level or output-level metric can see it happening.
+Look closer. In the real frame the decision was driven by **a pedestrian**. In the synthetic one, by **a right-turn sign** next to a dog the model failed to detect. Same output, different reason. The test passed for the wrong reason, and no pixel-level or output-level metric can see it happening.
 
 My research makes that failure mode measurable, so safety claims about autonomous systems rest on evidence rather than appearance.
 
-> On one task, calibrating a generator for output agreement alone improved the output score by **74%** while making the decisive evidence **16% more divergent**. The score got better. The reasoning got worse.
+> On one task, calibrating a generator for output agreement alone cut the output-level loss by **74%** while making the decisive evidence **16% more divergent**. The score got better. The reasoning got worse.
 
 <br>
 
@@ -43,7 +43,7 @@ My research makes that failure mode measurable, so safety claims about autonomou
 <sub><i>International Journal of Information Technology</i>, vol. 16, no. 5, pp. 2987–2999</sub><br>
 [DOI](https://doi.org/10.1007/s41870-023-01665-1) · [arXiv](https://arxiv.org/abs/2304.08027)
 
-<sub>Full list including preprints → [Google Scholar](https://scholar.google.co.uk/citations?user=qNJPWrMAAAAJ&hl=en)</sub>
+<sub>Full list including preprints → [website](https://danial-safaei.github.io/#publications) · [Google Scholar](https://scholar.google.co.uk/citations?user=qNJPWrMAAAAJ&hl=en)</sub>
 
 <br>
 
@@ -95,7 +95,7 @@ Reference implementation of Decisive Feature Fidelity: counterfactual-XAI decisi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
-    <img alt="89 citations, h-index 6, i10-index 5, 11 works. Citations per year: 13 (2023), 42 (2024), 30 (2025), 4 (2026 to date). Source: Google Scholar." src="assets/metrics-light.svg" width="100%">
+    <img alt="92 citations, h-index 6, i10-index 5, 11 works. Citations per year: 13 (2023), 42 (2024), 30 (2025), 7 (2026 to date). Source: Google Scholar." src="assets/metrics-light.svg" width="100%">
   </picture>
 </div>
 
