@@ -33,15 +33,25 @@ My research makes that failure mode measurable, so safety claims about autonomou
 
 ## Publications
 
+**C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception**<br>
+<sub>D. Safaei, S. Khastgir, M. Higgins, J. Ploeg, M. Alirezaei, S. Tong, L. Gielen</sub><br>
+<sub><i>2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)</i> · Naples, Italy · in press</sub><br>
+[arXiv](https://arxiv.org/abs/2610.33760) · [Explainer](https://danial-safaei.github.io/blog.html?post=what-is-c-dff)
+
 **Quantifying Fidelity: A Decisive Feature Approach to Comparing Synthetic and Real Imagery**<br>
 <sub>D. Safaei, S. Khastgir, M. Alirezaei, J. Ploeg, C.-H. Cheng, S. Tong, X. Zhao</sub><br>
-<sub><i>2026 IEEE Intelligent Vehicles Symposium (IV)</i>, pp. 847–854 · Detroit, MI, USA</sub><br>
+<sub><i>2026 IEEE Intelligent Vehicles Symposium (IV)</i>, pp. 847–854 · Plymouth, MI, USA</sub><br>
 [DOI](https://doi.org/10.1109/IV66570.2026.11624013) · [arXiv](https://arxiv.org/abs/2512.16468) · [Code](https://github.com/Danial-Safaei/DFF)
 
 **DeePLT: Personalized Lighting Facilitates by Trajectory Prediction of Recognized Residents in the Smart Home**<br>
 <sub>D. Safaei, A. Sobhani, A. A. Kiaei</sub><br>
 <sub><i>International Journal of Information Technology</i>, vol. 16, no. 5, pp. 2987–2999</sub><br>
 [DOI](https://doi.org/10.1007/s41870-023-01665-1) · [arXiv](https://arxiv.org/abs/2304.08027)
+
+**Probabilistic Pedestrian Forecasts from a Handheld Phone: World-Frame Heat Maps, Visual-Inertial Height Drift, and Evaluation without Ground Truth**<br>
+<sub>D. Safaei</sub><br>
+<sub><i>arXiv preprint</i>, October 2026</sub><br>
+[arXiv](https://arxiv.org/abs/2610.04736) · [Code](https://github.com/Danial-Safaei/handheld-pedestrian-forecasts)
 
 <sub>Full list including preprints → [website](https://danial-safaei.github.io/#publications) · [Google Scholar](https://scholar.google.co.uk/citations?user=qNJPWrMAAAAJ&hl=en)</sub>
 
@@ -56,14 +66,17 @@ My research makes that failure mode measurable, so safety claims about autonomou
 | **Synthetic-data fidelity** | Whether synthetic imagery is faithful to the decision-relevant structure of real data, so simulation results transfer |
 | **Scenario-based testing** | Testing autonomous systems against the conditions that matter most for safety |
 
-<sub>PhD supervised by Prof. Siddartha Khastgir and Prof. Matthew Higgins at WMG, in industrial partnership with Siemens Digital Industries Software.</sub>
+<sub>PhD supervised by Matthew Higgins, Thomas Bashford-Rogers and Siddartha Khastgir at WMG, and by Mohsen Alirezaei and Son Tong at Siemens Digital Industries Software, the industrial partner.</sub>
 
 <br>
 
-## Featured repository
+## Featured repositories
 
 ### [→ DFF](https://github.com/Danial-Safaei/DFF)
 Reference implementation of Decisive Feature Fidelity: counterfactual-XAI decisive maps, ControlNet training wrappers, dataset manifests, and the calibration loop from the IEEE IV 2026 paper. Validated on 2,126 matched KITTI / Virtual KITTI 2 pairs across three frozen systems under test.
+
+### [→ handheld-pedestrian-forecasts](https://github.com/Danial-Safaei/handheld-pedestrian-forecasts)
+Code, internally pre-registered evaluation protocol and paper sources for the October 2026 preprint: people filmed by a handheld phone are lifted onto the floor, tracked in a gravity-aligned world frame and forecast 0.4 to 4.8 s ahead as probability maps. It includes 95 unit tests and a synthetic demo that needs no data.
 
 <br>
 
