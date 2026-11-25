@@ -1,125 +1,15 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Danial Safaei — PhD Researcher, WMG, University of Warwick. Safe AI for autonomous systems." src="assets/banner-light.svg" width="100%">
-  </picture>
-</div>
+I am a PhD researcher at [WMG, University of Warwick](https://warwick.ac.uk/fac/sci/wmg/). I work on the safety assurance of AI-based perception for automated driving, and in particular on whether a perception model relies on the same evidence in simulation as on real data. My PhD is funded by EPSRC and Siemens.
 
-<div align="center">
-  <a href="https://danial-safaei.github.io"><b>Website</b></a> ·
-  <a href="https://danial-safaei.github.io/cv.html"><b>CV</b></a> ·
-  <a href="https://scholar.google.co.uk/citations?user=qNJPWrMAAAAJ&hl=en"><b>Scholar</b></a> ·
-  <a href="https://orcid.org/0000-0002-4443-8763"><b>ORCID</b></a> ·
-  <a href="https://www.linkedin.com/in/danial-safaei/"><b>LinkedIn</b></a> ·
-  <a href="mailto:danial.safaei@warwick.ac.uk"><b>Email</b></a>
-</div>
+Supervised by Matthew Higgins, Thomas Bashford-Rogers and Siddartha Khastgir (WMG), and by Mohsen Alirezaei and Son Tong (Siemens Digital Industries Software).
 
-<br>
+[Website](https://danial-safaei.github.io/) · [CV](https://danial-safaei.github.io/cv.html) · [Google Scholar](https://scholar.google.co.uk/citations?user=qNJPWrMAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/danial-safaei) · [ORCID](https://orcid.org/0000-0002-4443-8763)
 
-## The problem I work on
+#### Papers
 
-A driving model sees a real frame and outputs a 20° left turn. It sees the simulator's twin of that frame and outputs the same 20° left turn.
+- **C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception**<br>IEEE ITSC 2026 · [arXiv](https://arxiv.org/abs/2610.33760)
+- **Quantifying Fidelity: A Decisive Feature Approach to Comparing Synthetic and Real Imagery**<br>IEEE IV 2026 · [paper](https://doi.org/10.1109/IV66570.2026.11624013) · [arXiv](https://arxiv.org/abs/2512.16468) · [code](https://github.com/Danial-Safaei/DFF)
+- **Mechanism Parity for Simulation-Based Validation of Autonomous-Driving Perception**<br>arXiv preprint, 2026 · [arXiv](https://arxiv.org/abs/2611.27447)
+- **Probabilistic Pedestrian Forecasts from a Handheld Phone**<br>arXiv preprint, 2026 · [arXiv](https://arxiv.org/abs/2610.04736) · [code](https://github.com/Danial-Safaei/handheld-pedestrian-forecasts)
+- **DeePLT: Personalized Lighting Facilitates by Trajectory Prediction of Recognized Residents in the Smart Home**<br>International Journal of Information Technology, 2024 · [paper](https://doi.org/10.1007/s41870-023-01665-1) · [arXiv](https://arxiv.org/abs/2304.08027)
 
-Perfect agreement. Ship it?
-
-Look closer. In the real frame the decision was driven by **a pedestrian**. In the synthetic one, by **a right-turn sign** next to a dog the model failed to detect. Same output, different reason. The test passed for the wrong reason, and no pixel-level or output-level metric can see it happening.
-
-My research makes that failure mode measurable, so safety claims about autonomous systems rest on evidence rather than appearance.
-
-> On one task, calibrating a generator for output agreement alone cut the output-level loss by **74%** while making the decisive evidence **16% more divergent**. The score got better. The reasoning got worse.
-
-<br>
-
-## Publications
-
-**C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception**<br>
-<sub>D. Safaei, S. Khastgir, M. Higgins, J. Ploeg, M. Alirezaei, S. Tong, L. Gielen</sub><br>
-<sub><i>2026 IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)</i> · Naples, Italy · in press</sub><br>
-[arXiv](https://arxiv.org/abs/2610.33760) · [Explainer](https://danial-safaei.github.io/blog.html?post=what-is-c-dff)
-
-**Quantifying Fidelity: A Decisive Feature Approach to Comparing Synthetic and Real Imagery**<br>
-<sub>D. Safaei, S. Khastgir, M. Alirezaei, J. Ploeg, C.-H. Cheng, S. Tong, X. Zhao</sub><br>
-<sub><i>2026 IEEE Intelligent Vehicles Symposium (IV)</i>, pp. 847–854 · Plymouth, MI, USA</sub><br>
-[DOI](https://doi.org/10.1109/IV66570.2026.11624013) · [arXiv](https://arxiv.org/abs/2512.16468) · [Code](https://github.com/Danial-Safaei/DFF)
-
-**DeePLT: Personalized Lighting Facilitates by Trajectory Prediction of Recognized Residents in the Smart Home**<br>
-<sub>D. Safaei, A. Sobhani, A. A. Kiaei</sub><br>
-<sub><i>International Journal of Information Technology</i>, vol. 16, no. 5, pp. 2987–2999</sub><br>
-[DOI](https://doi.org/10.1007/s41870-023-01665-1) · [arXiv](https://arxiv.org/abs/2304.08027)
-
-**Probabilistic Pedestrian Forecasts from a Handheld Phone: World-Frame Heat Maps, Visual-Inertial Height Drift, and Evaluation without Ground Truth**<br>
-<sub>D. Safaei</sub><br>
-<sub><i>arXiv preprint</i>, October 2026</sub><br>
-[arXiv](https://arxiv.org/abs/2610.04736) · [Code](https://github.com/Danial-Safaei/handheld-pedestrian-forecasts)
-
-<sub>Full list including preprints → [website](https://danial-safaei.github.io/#publications) · [Google Scholar](https://scholar.google.co.uk/citations?user=qNJPWrMAAAAJ&hl=en)</sub>
-
-<br>
-
-## Research
-
-| | |
-|:--|:--|
-| **Safety assurance for AI** | Arguing safety and reliability claims with evidence when learned components operate in high-consequence settings |
-| **Explainable evaluation** | Using interpretability methods as measurement instruments — comparing the evidence a model relies on, not only its outputs |
-| **Synthetic-data fidelity** | Whether synthetic imagery is faithful to the decision-relevant structure of real data, so simulation results transfer |
-| **Scenario-based testing** | Testing autonomous systems against the conditions that matter most for safety |
-
-<sub>PhD supervised by Matthew Higgins, Thomas Bashford-Rogers and Siddartha Khastgir at WMG, and by Mohsen Alirezaei and Son Tong at Siemens Digital Industries Software, the industrial partner.</sub>
-
-<br>
-
-## Featured repositories
-
-### [→ DFF](https://github.com/Danial-Safaei/DFF)
-Reference implementation of Decisive Feature Fidelity: counterfactual-XAI decisive maps, ControlNet training wrappers, dataset manifests, and the calibration loop from the IEEE IV 2026 paper. Validated on 2,126 matched KITTI / Virtual KITTI 2 pairs across three frozen systems under test.
-
-### [→ handheld-pedestrian-forecasts](https://github.com/Danial-Safaei/handheld-pedestrian-forecasts)
-Code, internally pre-registered evaluation protocol and paper sources for the October 2026 preprint: people filmed by a handheld phone are lifted onto the floor, tracked in a gravity-aligned world frame and forecast 0.4 to 4.8 s ahead as probability maps. It includes 95 unit tests and a synthetic demo that needs no data.
-
-<br>
-
-## Toolkit
-
-<sub>**Languages**</sub><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-<sub>**Deep learning & vision**</sub><br>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Diffusers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-<sub>**Autonomy & simulation**</sub><br>
-![CARLA](https://img.shields.io/badge/CARLA-000000?style=flat-square&logo=carthrottle&logoColor=white)
-![SUMO](https://img.shields.io/badge/SUMO-008080?style=flat-square)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![OpenSCENARIO](https://img.shields.io/badge/OpenSCENARIO-4A5568?style=flat-square)
-![KITTI](https://img.shields.io/badge/KITTI%20%2F%20vKITTI2-2D3748?style=flat-square)
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
-    <img alt="98 citations, h-index 7, i10-index 6, 14 works. Citations per year: 13 (2023), 42 (2024), 31 (2025), 11 (2026 to date). Source: Google Scholar." src="assets/metrics-light.svg" width="100%">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danial-Safaei/Danial-Safaei/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danial-Safaei/Danial-Safaei/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution graph" src="https://raw.githubusercontent.com/Danial-Safaei/Danial-Safaei/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <sub><i>Beyond visual realism, mechanistic realism is what makes virtual testing trustworthy.</i></sub>
-</div>
+Full list on my [website](https://danial-safaei.github.io/#publications).
